@@ -1,26 +1,26 @@
 
-# react-native-checkbox
+# react-native-checkbox-view
 
 ### Installation
 
-`$ npm install react-native-checkbox --save`
+`$ npm install react-native-checkbox-view --save`
 
 
 ## Usage
 ```javascript
-import Checkbox from 'react-native-checkbox';
+import Checkbox from 'react-native-checkbox-view';
 ```  
 
 ## Demo
-* [Example](https://github.com/Aamirali86/react-native-checkbox/tree/master/Example)
+* [Example](https://github.com/Aamirali86/react-native-checkbox-view/tree/master/example)
 
-![Screenshots](https://github.com/Aamirali86/react-native-checkbox/blob/master/Example/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-07-31%20at%2014.42.48.png)
+![Screenshots](https://github.com/Aamirali86/react-native-checkbox-view/blob/master/example/screenshots/checkbox.gif)
 
 ## Getting started  
 
-Add `react-native-checkbox` to your js file.   
+Add `react-native-checkbox-view` to your js file.
 
-`import CheckBox from 'react-native-check-box'`  
+`import CheckBox from 'react-native-checkbox-view'`  
 
 Inside your component's render method, use CheckBox:   
 
