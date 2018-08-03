@@ -1,0 +1,25 @@
+{
+  "name": "react-native-checkbox-view",
+  "version": "1.0.0",
+  "description": "Checkbox component for react native for on iOS and Android.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aamirali86/react-native-checkbox-view.git"
+  },
+  "keywords": [
+    "react-native",
+    "checkbox",
+    "custom-views",
+    "reactjs"
+  ],
+  "author": "Aamir ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aamirali86/react-native-checkbox-view/issues"
+  },
+  "homepage": "https://github.com/Aamirali86/react-native-checkbox-view#readme"
+}
