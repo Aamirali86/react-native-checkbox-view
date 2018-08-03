@@ -14,7 +14,7 @@ import Checkbox from 'react-native-checkbox-view';
 ## Demo
 * [Example](https://github.com/Aamirali86/react-native-checkbox-view/tree/master/example)
 
-![Screenshots](https://github.com/Aamirali86/react-native-checkbox-view/blob/master/example/screenshots/checkbox.gif)
+![Screenshots](https://github.com/Aamirali86/react-native-checkbox-view/blob/master/screenshots/checkbox.gif)
 
 ## Getting started  
 
